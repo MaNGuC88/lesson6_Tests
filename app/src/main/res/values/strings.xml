@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson6</string>
+    <string name="url">URL</string>
+    <string name="not_url">NOT_URL</string>
+</resources>
